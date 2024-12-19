@@ -24,11 +24,11 @@ To view and edit this project, you will need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-login-page.git
+   git clone https://github.com/princeraj1161/loginpagect.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-login-page
+   cd loginpagect
    ```
 3. Open the `index.html` file in your browser:
    ```bash
@@ -40,6 +40,11 @@ To view and edit this project, you will need:
 - The CSS styles are kept minimal, focusing solely on Flexbox properties like `justify-content`, `align-items`, and `flex-direction`.
 
 
+## Page Link and Page screenshot 
+
+https://princeraj1161.github.io/loginpagect/
+
+![image](https://github.com/user-attachments/assets/9950bddf-2f1d-40ac-b32b-6c82b21231fa)
 
 
 
