@@ -39,10 +39,7 @@ To view and edit this project, you will need:
 - The layout is built entirely using Flexbox, with a parent container centering the login form both vertically and horizontally.
 - The CSS styles are kept minimal, focusing solely on Flexbox properties like `justify-content`, `align-items`, and `flex-direction`.
 
-## Customization
-You can customize the login page by:
-- Editing the `index.html` file to add more input fields or buttons.
-- Modifying the `styles.css` file to change colors, fonts, and layout properties.
+
 
 
 
